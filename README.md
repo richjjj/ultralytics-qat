@@ -1,5 +1,5 @@
 # ultralytics-qat
-QAT implementation for ultralytics
+QAT ultralytics for tensorrt
 
 ## TODO
 - [ ] yolo11 C3k2
